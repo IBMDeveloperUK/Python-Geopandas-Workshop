@@ -9,7 +9,7 @@
 
 ### 2. Add data to the Project
 
-### 3. Create a Project Accesstoken
+### 3. Create a Project Access token
 
 To load the data into a notebook you need an Access Token. 
 
