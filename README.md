@@ -9,7 +9,17 @@
 
 ### 2. Add data to the Project
 
-### 3. Create a Project token
+### 3. Create a Project Accesstoken
+
+To load the data into a notebook you need an Access Token. 
+
+- Go the Settings tab at the top of the Project and scroll down to `Access tokens`. 
+- Click `New token`
+- Give the new token a name, select `Editor` and click `Create`
+
+![](/images/token.png)
+
+- You will need this later in the notebook
 
 ### 4. Create a custom Python environment
 
