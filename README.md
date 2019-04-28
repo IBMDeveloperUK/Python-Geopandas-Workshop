@@ -1,4 +1,8 @@
-# geopandas-workshop
+# Explore UK Crime Data with Pandas and Geopandas
+
+In this workshop you will learn how to expand your Python data analysis skills to geospatial data. The workshop is aimed at people who are interested in data science and data analysis.
+
+During the workshop we will analyse UK Crime Data with Pandas and GeoPandas in a Jupyter notebook. We first will look at the properties of geospatial data and explore the different commands. After you have learned the basics we will go through some exercises analysing the UK Crime Data to explore patterns and trends and create a few maps of crime rates in London.
 
 ## Getting Started with Jupyter Notebooks
 
