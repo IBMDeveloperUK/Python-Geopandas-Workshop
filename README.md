@@ -33,15 +33,7 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 - Select an Object Storage from the drop-down menu or create a new one for free. This is used to store the notebooks and data. **Do not forget to click refresh when returning to the Project page.**
 - click `Create`.  
 
-### 2. Add data to the Project
-
-- We will analyse data about the sizes of jeans pockets in this workshop. To do this you need to add the data to your project.
-- Download the `measurements.csv` file from [here](https://raw.githubusercontent.com/the-pudding/data/master/pockets/measurements.csv) (Right click and save as a csv file). A big thanks to Jan Diehm and Amber Thomas for going around shops, measuring the jeans and putting the data online for everyone to use.  
-- Add this file to your newly created project in Watson Studio by uploading the file in the right side menu (click the 1010 button if you do not see this): 
-
- ![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/upload.png)
-
-### 3. Create a Project Access token
+### 2. Create a Project Access token
 
 To load the data into a notebook you need an Access Token. 
 
@@ -53,7 +45,7 @@ To load the data into a notebook you need an Access Token.
 
 - You will need this later in the notebook
 
-### 4. Create a custom Python environment
+### 3. Create a custom Python environment
 
 As geopandas is not installed in the default Python environments you need to create a customized environment. This uses `conda create`. But as the environment is running in the Cloud there are a few steps to go through:
 
@@ -95,7 +87,7 @@ dependencies:
 
 - Now you can use this new environment to run notebooks
 
-## Load and Run a Notebook
+## 4. Load and run a notebook
 
 -  Add a new notebook. Click `Add to project` and choose `Notebook`:
 
