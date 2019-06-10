@@ -54,7 +54,7 @@ To load the data into a notebook you need an Access Token.
 As geopandas is not installed in the default Python environments you need to create a customized environment. This uses `conda create`. But as the environment is running in the Cloud there are a few steps to go through:
 
 - Go to the environments tab at the top of your project
-- Click on 'new environment definition'
+- Click on `new environment definition`
 
 ![](/images/new_env.png)
 
