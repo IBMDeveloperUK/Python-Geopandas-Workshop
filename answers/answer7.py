@@ -1,7 +1,7 @@
+fig, axs = plt.subplots(1, 2, figsize=(20,5))
 
-dfsjoin2 = gpd.sjoin(boroughs2,stop_search[stop_search['Outcome'] == 'Arrest']) 
-dfpivot2 = pd.pivot_table(dfsjoin2,index='code',columns='Object of search',aggfunc={'Object of search':'count'})
-dfpivot2.columns = dfpivot2.columns.droplevel()
-dfpivot2 = dfpivot2.reset_index()
-boroughs4 = boroughs2.merge(dfpivot2, how='left',on='code')
-boroughs4.head()
+p1=boroughs4.plot(column='Controlled drugs',ax=axs[0],cmap='Blues',legend=True);
+p2=boroughs4.plot(column='Stolen goods',ax=axs[1], cmap='Reds',legend=True);
+
+axs[0].set_title('Controlled drugs', fontdict={'fontsize': '12', 'fontweight' : '5'});
+axs[1].set_title('Stolen goods', fontdict={'fontsize': '12', 'fontweight' : '5'});
