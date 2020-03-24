@@ -1,4 +1,5 @@
-[fig, ax] = plt.subplots(1, figsize=(10, 6))
-msoa.plot(column='HHOLDS', cmap='Blues', linewidth=0.5, edgecolor='black', legend=True, ax=ax);
-ax.axis('off');
-ax.set_title('Number of households', fontdict={'fontsize': '20', 'fontweight' : '3'});
+bystreet = street.groupby(['Location','Crime type']).count()
+bystreet = bystreet.drop(columns=['Month', 'Last outcome category','coordinates','LSOA code'])
+bystreet = bystreet.rename(index=str, columns={"Crime ID": "Number of crimes"})
+
+bystreet.sort_values(by=['Number of crimes'], ascending=False).head()
