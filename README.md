@@ -89,7 +89,7 @@ dependencies:
 
 ![](/images/customize_env2.png)
 
-- Now you can use this new environment to run notebooks
+- Now you can use this new environment to run notebooks 
 
 ## 4. Load and run a notebook
 
