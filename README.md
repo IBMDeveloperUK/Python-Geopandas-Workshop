@@ -16,7 +16,7 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 
 - When you are signed up click `Create Resource` at the top of the Resources page. You can find the resources under the hamburger menu at the top left:
 
- ![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/resources.png)
+ ![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/Create_resource.png)
  
 - Search for Watson Studio and click on the tile:
 
@@ -95,7 +95,7 @@ dependencies:
 
 -  Add a new notebook. Click `Add to project` and choose `Notebook`:
 
-![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/addnotebook.png)
+![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/notebook.png)
 
 - Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/geopandas-workshop/blob/master/notebooks/geopandas-workshop.ipynb`
 - Select the custom runtime enviroment that you created and click `Create Notebook`. 
