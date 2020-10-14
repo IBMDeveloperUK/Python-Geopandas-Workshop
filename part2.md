@@ -64,7 +64,7 @@ dependencies:
 
 ![](https://github.com/IBMDeveloperUK/python-geopandas-workshop/blob/master/images/notebook.png)
 
-- Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/geopandas-workshop/blob/master/notebooks/geopandas-workshop.ipynb`
+- Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/Python-Geopandas-Workshop/blob/master/notebooks/part-2-geopandas.ipynb`
 - Select the custom runtime enviroment that you created and click `Create Notebook`. 
 -  The notebook will load. 
  
