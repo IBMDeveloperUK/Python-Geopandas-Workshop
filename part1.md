@@ -2,7 +2,7 @@
 
 ## Get a free IBM Cloud account <a id="get-a-free-ibm-cloud-account"></a>
 
-To follow along with the workshop start by signing up for a [free Cloud account](https://cloud.ibm.com/registration?cm_mmc=Inpersondirected-_-Audience+Developer_Developer+Conversation-_-WW_WW-_-Oct2020-codethinkukireland-eventid-5f05ee61790889521154c5d9-global-devadvgrp-london-franchise-conference-london_ov75915&cm_mmca1=000039JL&cm_mmca2=10010797&eventid=5f05ee61790889521154c5d9). After filling in the form, you will receive a verification code by email, so please use a real address.
+To follow along with the workshop start by signing up for a [free Cloud account](https://ibm.biz/BdqCue). After filling in the form, you will receive a verification code by email, so please use a real address.
 
 Once your account is verified and set up, you will see this welcome screen. Click on the 🍔 in the top left corner to expand the contents list. At the top you can find more information about your account, documentation and available resources and services.
 
