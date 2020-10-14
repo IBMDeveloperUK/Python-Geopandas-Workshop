@@ -80,7 +80,7 @@ This will bring you here, where you can create a new notebook, add one from a lo
 
 To load the notebook for this workshop, select **From URL**, give the notebook a name, paste the below link to the notebook in the **Notebook URL** field and then click the **Create** button at the bottom right. You can leave the runtime as the default. 
 
-`https://github.com/IBMDeveloperUK/AIF360-Introduction/blob/master/notebooks/code-think-2020-bias-ml.ipynb`
+`https://github.com/IBMDeveloperUK/Python-Geopandas-Workshop/blob/master/notebooks/part-1-pandas.ipynb`
 
 ### Running a notebook
 
