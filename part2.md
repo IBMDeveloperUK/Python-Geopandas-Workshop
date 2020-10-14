@@ -1,4 +1,4 @@
-# Introduction on Geopandas
+# Introduction to geopandas
 
 To follow along with part 2 of this series we will run a Jupyter notebook in Watson Studio. If you have not done so yet, first go through the steps of [part 1](https://github.com/IBMDeveloperUK/Python-Geopandas-Workshop/blob/master/part1.md)
 
