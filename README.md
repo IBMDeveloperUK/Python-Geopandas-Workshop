@@ -7,7 +7,7 @@ During the workshop we will analyse London borough and crime data with Python, P
 In this workshop we will use Watson Studio to run a Jupyter notebook. For this you will need an IBM Cloud account (or run the notebooks locally when you comfortable with this). Follow along with the steps of each workshop that will guide you through all the steps to get started. Each part will take about an hour to complete.
 
 1. [Introduction to Pandas](https://github.com/IBMDeveloperUK/Python-Geopandas-Workshop/blob/master/part1.md)
-2. [Introduction to GeoPandas](https://github.com/IBMDeveloperUK/Python-Geopandas-Workshop/blob/master/part2.md)
+2. [Introduction to Geopandas](https://github.com/IBMDeveloperUK/Python-Geopandas-Workshop/blob/master/part2.md)
 3. [Exploring UK Crime Data with Pandas and Geopandas](https://github.com/IBMDeveloperUK/Python-Geopandas-Workshop/blob/master/part3.md)
 
 
